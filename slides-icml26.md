@@ -11,7 +11,7 @@ class: title, middle
 
 Alex Hernandez-Garcia, Alexandra Volokhova, Ezekiel Williams, Dounia Shaaban Kabakibo, Mélisande Teng 
 
-.turquoise[ICML 2026 · Seoul · July 9 2026]
+.h1[ICML 2026 · Seoul · July 9 2026]
 
 .center[
 <a href="https://mila.quebec/"><img src="../assets/images/slides/logos/mila-white-v2.png" alt="Mila" style="width: 12em"></a>
@@ -22,3 +22,23 @@ Alex Hernandez-Garcia, Alexandra Volokhova, Ezekiel Williams, Dounia Shaaban Kab
 .smaller[.footer[
 Slides: [irresponsibleai.github.io/{{ name }}](https://irresponsibleai.github.io/{{ name }})
 ]]
+
+---
+
+## Title
+### Subtitle
+
+.context[This is the context box.]
+
+This is some text. .cite[(A citation appears smaller)]
+
+This is text with a [hyperlink](https://www.ecosia.org/).
+
+- This text uses .highlight1[Highlight 1]
+- This text uses .h1[Highlight 1]
+- This text uses .highlight2[Highlight 2]
+- This text uses .h2[Highlight 2]
+
+.references[Some references, which appear at the bottom left.]
+
+.conclusion[This is the conclusion box.]
