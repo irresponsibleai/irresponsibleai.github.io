@@ -14,9 +14,9 @@ Alex Hernandez-Garcia, Alexandra Volokhova, Ezekiel Williams, Dounia Shaaban Kab
 .h1[ICML 2026 · Seoul · July 9 2026]
 
 .center[
-<a href="https://mila.quebec/"><img src="../assets/images/slides/logos/mila-white-v2.png" alt="Mila" style="width: 12em"></a>
+<a href="https://mila.quebec/"><img src="../assets/img/logos/mila-purple-new.png" alt="Mila" style="width: 12em"></a>
 &nbsp&nbsp&nbsp&nbsp
-<a href="https://www.umontreal.ca/"><img src="../assets/images/slides/logos/udem-white.png" alt="UdeM" style="width: 12em"></a>
+<a href="https://www.umontreal.ca/"><img src="../assets/img/logos/udem-black.png" alt="UdeM" style="width: 12em"></a>
 ]
 
 .smaller[.footer[
