@@ -2,7 +2,7 @@
 
 The slide deck is made using [remark](https://remarkjs.com), "a simple, in-browser, markdown-driven slide-show tool targeted at people who know their way around HTML and CSS" ([reference](https://github.com/gnab/remark)). Even if you don't know your way around HTML and CSS, if you are comfortable with the basics, and you're familiar with markdown, then it should not be too hard to get up to speed.
 
-The slides of our ICML presentation are publicly available on [irresponsibleai.github.io/slides-icml26](https://irresponsibleai.github.io/slides-icml26). The main (markdown) file with the content of the slides is `slides-icml26.md`. If you change the file, commit the changes and push to the remote GitHub repository, after a few seconds or minutes, you would be the changes on the website, provided the changes do not break anything. However, this is not convenient at all. The real way to edit the slides is by building the website locally.
+The slides of our ICML presentation are publicly available on [irresponsibleai.github.io/slides-icml26](https://irresponsibleai.github.io/slides-icml26). The main (markdown) file with the content of the slides is `slides-icml26.md`. If you change the file, commit the changes and push to the remote GitHub repository, after a few seconds or minutes, you would be able to see the changes on the website, provided the changes did not break anything. However, this is not convenient at all. The real way to edit the slides is by building the website locally.
 
 ## How to build the slides locally
 
