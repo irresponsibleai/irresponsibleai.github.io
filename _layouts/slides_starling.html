@@ -366,7 +366,28 @@
 		scale: 50%;
     bottom: -50px;
     right: -50px;
-}
+		}
+
+		/* Tables */
+		.styled-table {
+    border-collapse: collapse;
+    margin: 0.5em 0;
+		}
+		.styled-table thead tr {
+    background-color: var(--darkturquoise);
+    color: var(--white);
+    text-align: left;
+		}
+		.styled-table th,
+		.styled-table td {
+    padding: 12px 15px;
+		}
+    .styled-table tbody tr.active-row {
+    color: var(--purple);
+		}
+    .styled-table tbody tr.hide-row {
+    color: var(--white);
+		}
 
   </style>
 </head>
