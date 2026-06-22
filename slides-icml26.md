@@ -337,6 +337,204 @@ count: false
 
 ---
 
+<table class="styled-table">
+  <thead>
+    <tr>
+      <th>Alternative views</th>
+      <th>Our answer</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="hide-row">
+      <td>Big tech’s influence on the research agenda enables progress.</td>
+      <td>We question the assumption that supposed progress outweighs the current and potential socioecological impacts of the rapid deployment of AI systems at scale.</td>
+    </tr>
+    <tr class="hide-row">
+      <td>Environmental impacts of big tech are overstated.</td>
+      <td>There is still high uncertainty due to lack of transparency and global aggregates obscure salient local effects such as stressed energy grids and water scarcity.</td>
+    <tr class="hide-row">
+      <td>Top-down structural reform should be the priority.</td>
+      <td>Regulatory guardrails can themselves be shaped by the same pressures they aim to constrain, and top-down change rarely occurs in the absence of bottom-up pressure.</td>
+    <tr class="hide-row">
+      <td>Capitalism as the most viable current option.</td>
+      <td>We leave this question open and invite AI researchers to reflect on the broader structural conditions that shape the research and development of AI.</td>
+    </tr>
+    <tr class="hide-row">
+      <td>Alternative actors could have led to similar outcomes.</td>
+      <td>The unique role played by big tech creates conditions and strong incentives toward irresponsible development.</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+count: false
+
+<table class="styled-table">
+  <thead>
+    <tr>
+      <th>Alternative views</th>
+      <th>Our answer</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="active-row">
+      <td>Big tech’s influence on the research agenda enables progress.</td>
+      <td>We question the assumption that supposed progress outweighs the current and potential socioecological impacts of the rapid deployment of AI systems at scale.</td>
+    </tr>
+    <tr class="hide-row">
+      <td>Environmental impacts of big tech are overstated.</td>
+      <td>There is still high uncertainty due to lack of transparency and global aggregates obscure salient local effects such as stressed energy grids and water scarcity.</td>
+    <tr class="hide-row">
+      <td>Top-down structural reform should be the priority.</td>
+      <td>Regulatory guardrails can themselves be shaped by the same pressures they aim to constrain, and top-down change rarely occurs in the absence of bottom-up pressure.</td>
+    <tr class="hide-row">
+      <td>Capitalism as the most viable current option.</td>
+      <td>We leave this question open and invite AI researchers to reflect on the broader structural conditions that shape the research and development of AI.</td>
+    </tr>
+    <tr class="hide-row">
+      <td>Alternative actors could have led to similar outcomes.</td>
+      <td>The unique role played by big tech creates conditions and strong incentives toward irresponsible development.</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+count: false
+
+<table class="styled-table">
+  <thead>
+    <tr>
+      <th>Alternative views</th>
+      <th>Our answer</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Big tech’s influence on the research agenda enables progress.</td>
+      <td>We question the assumption that supposed progress outweighs the current and potential socioecological impacts of the rapid deployment of AI systems at scale.</td>
+    </tr>
+    <tr class="active-row">
+      <td>Environmental impacts of big tech are overstated.</td>
+      <td>There is still high uncertainty due to lack of transparency and global aggregates obscure salient local effects such as stressed energy grids and water scarcity.</td>
+    <tr class="hide-row">
+      <td>Top-down structural reform should be the priority.</td>
+      <td>Regulatory guardrails can themselves be shaped by the same pressures they aim to constrain, and top-down change rarely occurs in the absence of bottom-up pressure.</td>
+    <tr class="hide-row">
+      <td>Capitalism as the most viable current option.</td>
+      <td>We leave this question open and invite AI researchers to reflect on the broader structural conditions that shape the research and development of AI.</td>
+    </tr>
+    <tr class="hide-row">
+      <td>Alternative actors could have led to similar outcomes.</td>
+      <td>The unique role played by big tech creates conditions and strong incentives toward irresponsible development.</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+count: false
+
+<table class="styled-table">
+  <thead>
+    <tr>
+      <th>Alternative views</th>
+      <th>Our answer</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Big tech’s influence on the research agenda enables progress.</td>
+      <td>We question the assumption that supposed progress outweighs the current and potential socioecological impacts of the rapid deployment of AI systems at scale.</td>
+    </tr>
+    <tr>
+      <td>Environmental impacts of big tech are overstated.</td>
+      <td>There is still high uncertainty due to lack of transparency and global aggregates obscure salient local effects such as stressed energy grids and water scarcity.</td>
+    <tr class="active-row">
+      <td>Top-down structural reform should be the priority.</td>
+      <td>Regulatory guardrails can themselves be shaped by the same pressures they aim to constrain, and top-down change rarely occurs in the absence of bottom-up pressure.</td>
+    <tr class="hide-row">
+      <td>Capitalism as the most viable current option.</td>
+      <td>We leave this question open and invite AI researchers to reflect on the broader structural conditions that shape the research and development of AI.</td>
+    </tr>
+    <tr class="hide-row">
+      <td>Alternative actors could have led to similar outcomes.</td>
+      <td>The unique role played by big tech creates conditions and strong incentives toward irresponsible development.</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+count: false
+
+<table class="styled-table">
+  <thead>
+    <tr>
+      <th>Alternative views</th>
+      <th>Our answer</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Big tech’s influence on the research agenda enables progress.</td>
+      <td>We question the assumption that supposed progress outweighs the current and potential socioecological impacts of the rapid deployment of AI systems at scale.</td>
+    </tr>
+    <tr>
+      <td>Environmental impacts of big tech are overstated.</td>
+      <td>There is still high uncertainty due to lack of transparency and global aggregates obscure salient local effects such as stressed energy grids and water scarcity.</td>
+    <tr>
+      <td>Top-down structural reform should be the priority.</td>
+      <td>Regulatory guardrails can themselves be shaped by the same pressures they aim to constrain, and top-down change rarely occurs in the absence of bottom-up pressure.</td>
+    <tr class="active-row">
+      <td>Capitalism as the most viable current option.</td>
+      <td>We leave this question open and invite AI researchers to reflect on the broader structural conditions that shape the research and development of AI.</td>
+    </tr>
+    <tr class="hide-row">
+      <td>Alternative actors could have led to similar outcomes.</td>
+      <td>The unique role played by big tech creates conditions and strong incentives toward irresponsible development.</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+count: false
+
+<table class="styled-table">
+  <thead>
+    <tr>
+      <th>Alternative views</th>
+      <th>Our answer</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Big tech’s influence on the research agenda enables progress.</td>
+      <td>We question the assumption that supposed progress outweighs the current and potential socioecological impacts of the rapid deployment of AI systems at scale.</td>
+    </tr>
+    <tr>
+      <td>Environmental impacts of big tech are overstated.</td>
+      <td>There is still high uncertainty due to lack of transparency and global aggregates obscure salient local effects such as stressed energy grids and water scarcity.</td>
+    <tr>
+      <td>Top-down structural reform should be the priority.</td>
+      <td>Regulatory guardrails can themselves be shaped by the same pressures they aim to constrain, and top-down change rarely occurs in the absence of bottom-up pressure.</td>
+    <tr>
+      <td>Capitalism as the most viable current option.</td>
+      <td>We leave this question open and invite AI researchers to reflect on the broader structural conditions that shape the research and development of AI.</td>
+    </tr>
+    <tr class="active-row">
+      <td>Alternative actors could have led to similar outcomes.</td>
+      <td>The unique role played by big tech creates conditions and strong incentives toward irresponsible development.</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+exclude: true
+
 ## Title
 ### Subtitle
 
@@ -354,3 +552,26 @@ This is text with a [hyperlink](https://www.ecosia.org/).
 .references[Some references, which appear at the bottom left.]
 
 .conclusion[This is the conclusion box.]
+
+---
+
+name: slides-icml26
+class: title, middle
+
+# Irresponsible AI
+## Big tech’s influence on AI research and associated impacts
+
+Alex Hernandez-Garcia, Alexandra Volokhova, Ezekiel Williams, Dounia Shaaban Kabakibo, Mélisande Teng 
+
+.h1[ICML 2026 · Seoul · July 9 2026]
+
+.center[
+<a href="https://mila.quebec/"><img src="../assets/img/logos/mila-purple-new.png" alt="Mila" style="width: 12em"></a>
+&nbsp&nbsp&nbsp&nbsp
+<a href="https://www.umontreal.ca/"><img src="../assets/img/logos/udem-black.png" alt="UdeM" style="width: 12em"></a>
+]
+
+.smaller[.footer[
+Slides: [irresponsibleai.github.io/{{ name }}](https://irresponsibleai.github.io/{{ name }})
+]]
+
