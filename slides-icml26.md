@@ -157,6 +157,7 @@ count: false
 .references[
 - Ahmed et al. [The growing influence of industry in AI research](https://www.science.org/doi/10.1126/science.ade2420). Science, 2023.
 - Morrisett et al. Evolving academia/industry relations in computing research. arXiv:1903.10375, 2019.
+]
 
 ---
 
@@ -250,7 +251,7 @@ count: false
 
 .center[![:scale 95%](./assets/img/summary/summary_5.png)]
 
-.conclusion[AI slop and the spread of mis- and dis-information is a growing concern, driven by the uncritical deployment of AI systems and social media by big tech.]
+.conclusion[.h2[AI slop], the spread of .h2[mis- and dis-information] and the .h2[degration of paper and peer-review quality] are growing concerns, driven by the uncritical deployment of AI systems and social media by big tech.]
 
 ---
 
@@ -258,13 +259,81 @@ count: false
 
 ## Big tech’s influence has specific impacts…
 
-.center[![:scale 100%](./assets/img/summary/summary_4.png)]
+.center[![:scale 95%](./assets/img/summary/summary_4.png)]
+
+.conclusion[AI is increasingly used in .h2[warfare] and big tech companies have growing ties with .h2[weapon manufacturers and authoritarian regimes], some even under investigation for the crime of genocide.]
 
 ---
 
-## Irresponsible AI
+## And why is big tech a major driver of these negative impacts?
 
-.center[![:scale 100%](./assets/img/summary/summary.png)]
+.center[![:scale 95%](./assets/img/summary/summary_4.png)]
+
+---
+
+count: false
+
+## And why is big tech a major driver of these negative impacts?
+
+.center[![:scale 95%](./assets/img/summary/summary_3.png)]
+
+.conclusion[.h2[Big tech are for-profit, capitalist firms], pressured by the .h2[growth imperative and competition], under which socioecological impacts become expendable.]
+
+---
+
+count: false
+
+## And why is big tech a major driver of these negative impacts?
+
+.center[![:scale 95%](./assets/img/summary/summary_3.png)]
+
+.conclusion[The position of big tech leads to the .h2[monopolisation of knowledge] .cite[(Pagano, 2014)], which allows them to escape regulation .cite[(Rikap and Lundvall, 2022)]. Thus, regulatory and technical solutions are not enough.]
+
+---
+
+## Call to action: What can we do as AI researchers?
+
+.center[![:scale 95%](./assets/img/summary/summary_3.png)]
+
+---
+
+count: false
+
+## Call to action: What can we do as AI researchers?
+
+.center[![:scale 95%](./assets/img/summary/summary_2.png)]
+
+.conclusion[Educate ourselves on critical perspectives.]
+
+---
+
+count: false
+
+## Call to action: What can we do as AI researchers?
+
+.center[![:scale 95%](./assets/img/summary/summary_1.png)]
+
+.conclusion[.h2[Join organisations and collectives] advocating for more democratic, ethical and sustainable science and technology.]
+
+---
+
+count: false
+
+## Call to action: What can we do as AI researchers?
+
+.center[![:scale 95%](./assets/img/summary/summary_0.png)]
+
+.conclusion[.h2[Tech cooperatives and non-profits] are alternative, more democratic forms of entrepreneurship, less influenced by the growth imperative and competition.]
+
+---
+
+count: false
+
+## Call to action: What can we do as AI researchers?
+
+.center[![:scale 95%](./assets/img/summary/summary.png)]
+
+.conclusion[Researchers in big tech companies can play an important role in .h2[critically countering power structures from inside].]
 
 ---
 
