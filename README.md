@@ -24,7 +24,9 @@ If you are curious about how to make all this from scratch, you can take a look 
 
 ## How to reproduce this website
 
-1. Create new repository and clone it
+Important note: the following instructions are not necessary to build the slides locally. These are here only for completeness, to document all the steps needed in case you wanted to make this from scratch, for example for a different project.
+
+1. Create a new repository and clone it
 
 2. Assuming the [requirements to use Jekyll](https://jekyllrb.com/docs/installation/#requirements) are installed, initialise a new jekyll site from the root of the local repo:
 
