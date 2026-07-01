@@ -120,7 +120,8 @@ count: false
 
 .center[![:scale 100%](./assets/img/affiliations/bt_papers_up_to_2020.png)]
 
-.conclusion-affiliations[Until 2020, papers with big tech authors increased until about 30 %.]
+.conclusion-affiliations[By 2020, papers with big tech authors had increased\
+to represent ~30 %.]
 
 ---
 
@@ -130,7 +131,8 @@ count: false
 
 .center[![:scale 100%](./assets/img/affiliations/bt_papers.png)]
 
-.conclusion-affiliations[Since 2020, absolute numbers keep increasing but the fraction has decreased.]
+.conclusion-affiliations[Since 2020, absolute numbers keep increasing\
+but the fraction has decreased.]
 
 ---
 
