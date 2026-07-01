@@ -28,7 +28,7 @@ Slides: [irresponsibleai.github.io/{{ name }}](https://irresponsibleai.github.io
 ## Irresponsible AI
 ### Big tech’s influence on AI research and associated impacts
 
-.conclusion[Position: .h1[big tech]’s influence on AI research is an important driver of .h1[irresponsible AI] development.]
+.conclusion-float[Position: .h1[big tech]’s influence on AI research is an important driver of .h1[irresponsible AI] development.]
 
 --
 
