@@ -244,7 +244,7 @@ count: false
 
 .center[![:scale 95%](./assets/img/summary/summary_6.png)]
 
-.conclusion[In the drive to scale, .h2[ethics tend to be disregarded]. The scaling paradigm facilitates a modularised, transactional attitude towards AI development .cite[(Widder and Nafus, 2023)].]
+.conclusion[Under the scaling paradigm, .h2[ethics tend to be disregarded]: it facilitates a transactional attitude towards AI development, detached from the people impacted by technology .cite[(Widder and Nafus, 2023)].]
 
 ---
 
