@@ -120,8 +120,7 @@ count: false
 
 .center[![:scale 100%](./assets/img/affiliations/bt_papers_up_to_2020.png)]
 
-.conclusion-affiliations[By 2020, papers with big tech authors had increased\
-to represent ~30 %.]
+.conclusion-affiliations[By 2020, papers with big tech authors had increased to represent ~30 %.]
 
 ---
 
@@ -131,8 +130,7 @@ count: false
 
 .center[![:scale 100%](./assets/img/affiliations/bt_papers.png)]
 
-.conclusion-affiliations[Since 2020, absolute numbers keep increasing\
-but the fraction has decreased.]
+.conclusion-affiliations[Since 2020, absolute numbers keep increasing but the fraction has decreased.]
 
 ---
 
@@ -171,7 +169,7 @@ count: false
 - The number of .h1[professors who transitioned from academia to industry] has increased .h1[8x] since 2006 .cite[(Morrisett et al., 2019)].
 - .h1[Joint faculty appointments] between universities and the industry have also increased.
 
-.conclusion[These trends are having consequences in terms of department culture shift, research directions, conflicts of interest and the quality of the mentorship students receive.]
+.conclusion[These trends have consequences in terms of department culture shift, research directions, conflicts of interest and the quality of the mentorship students receive.]
 
 ---
 
@@ -189,7 +187,7 @@ count: false
 
 ---
 
-## What research themes and trends has big tech help establish?
+## What research themes and trends has big tech helped establish?
 
 --
 
@@ -243,7 +241,7 @@ count: false
 
 .center[![:scale 95%](./assets/img/summary/summary_6.png)]
 
-.conclusion[In the drive to scale, .h2[ethics tends to be disregarded]. The scaling paradigm facilitates a modularised, transactional attitude towards AI development .cite[(Widder and Nafus, 2023)].]
+.conclusion[In the drive to scale, .h2[ethics tend to be disregarded]. The scaling paradigm facilitates a modularised, transactional attitude towards AI development .cite[(Widder and Nafus, 2023)].]
 
 ---
 
