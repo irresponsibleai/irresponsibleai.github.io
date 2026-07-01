@@ -4,7 +4,8 @@ title: "Irresponsible AI: big tech’s influence on AI research and associated i
 ---
 
 name: slides-icml26
-class: title, middle
+class: title, middle, hide-slide-number
+
 
 # Irresponsible AI
 ## Big tech’s influence on AI research and associated impacts
@@ -22,6 +23,8 @@ Alex Hernandez-Garcia, Alexandra Volokhova, Ezekiel Williams, Dounia Shaaban Kab
 .smaller[.footer[
 Slides: [irresponsibleai.github.io/{{ name }}](https://irresponsibleai.github.io/{{ name }})
 ]]
+
+.qrcode[![](../assets/img/qrcode_paper.png)]
 
 ---
 
@@ -556,7 +559,7 @@ This is text with a [hyperlink](https://www.ecosia.org/).
 ---
 
 name: slides-icml26
-class: title, middle
+class: title, middle, hide-slide-number
 
 # Irresponsible AI
 ## Big tech’s influence on AI research and associated impacts
@@ -574,4 +577,6 @@ Alex Hernandez-Garcia, Alexandra Volokhova, Ezekiel Williams, Dounia Shaaban Kab
 .smaller[.footer[
 Slides: [irresponsibleai.github.io/{{ name }}](https://irresponsibleai.github.io/{{ name }})
 ]]
+
+.qrcode[![](../assets/img/qrcode_paper.png)]
 
