@@ -280,7 +280,7 @@ count: false
 
 .center[![:scale 95%](./assets/img/summary/summary_3.png)]
 
-.conclusion[.h2[Big tech are for-profit, capitalist firms], pressured by the .h2[growth imperative and competition], under which socioecological impacts become expendable.]
+.conclusion[.h2[Big tech are for-profit, capitalist firms], pressured by the .h2[growth imperative], under which socioecological impacts are ignored.]
 
 ---
 
@@ -359,12 +359,12 @@ count: false
       <td>Top-down structural reform should be the priority.</td>
       <td>Regulatory guardrails can themselves be shaped by the same pressures they aim to constrain, and top-down change rarely occurs in the absence of bottom-up pressure.</td>
     <tr class="hide-row">
-      <td>Capitalism as the most viable current option.</td>
-      <td>We leave this question open and invite AI researchers to reflect on the broader structural conditions that shape the research and development of AI.</td>
-    </tr>
-    <tr class="hide-row">
       <td>Alternative actors could have led to similar outcomes.</td>
       <td>The unique role played by big tech creates conditions and strong incentives toward irresponsible development.</td>
+    </tr>
+    <tr class="hide-row">
+      <td>Capitalism as the most viable current option.</td>
+      <td>We leave this question open and invite AI researchers to reflect on the broader structural conditions that shape the research and development of AI.</td>
     </tr>
   </tbody>
 </table>
@@ -392,12 +392,12 @@ count: false
       <td>Top-down structural reform should be the priority.</td>
       <td>Regulatory guardrails can themselves be shaped by the same pressures they aim to constrain, and top-down change rarely occurs in the absence of bottom-up pressure.</td>
     <tr class="hide-row">
-      <td>Capitalism as the most viable current option.</td>
-      <td>We leave this question open and invite AI researchers to reflect on the broader structural conditions that shape the research and development of AI.</td>
-    </tr>
-    <tr class="hide-row">
       <td>Alternative actors could have led to similar outcomes.</td>
       <td>The unique role played by big tech creates conditions and strong incentives toward irresponsible development.</td>
+    </tr>
+    <tr class="hide-row">
+      <td>Capitalism as the most viable current option.</td>
+      <td>We leave this question open and invite AI researchers to reflect on the broader structural conditions that shape the research and development of AI.</td>
     </tr>
   </tbody>
 </table>
@@ -425,12 +425,12 @@ count: false
       <td>Top-down structural reform should be the priority.</td>
       <td>Regulatory guardrails can themselves be shaped by the same pressures they aim to constrain, and top-down change rarely occurs in the absence of bottom-up pressure.</td>
     <tr class="hide-row">
-      <td>Capitalism as the most viable current option.</td>
-      <td>We leave this question open and invite AI researchers to reflect on the broader structural conditions that shape the research and development of AI.</td>
-    </tr>
-    <tr class="hide-row">
       <td>Alternative actors could have led to similar outcomes.</td>
       <td>The unique role played by big tech creates conditions and strong incentives toward irresponsible development.</td>
+    </tr>
+    <tr class="hide-row">
+      <td>Capitalism as the most viable current option.</td>
+      <td>We leave this question open and invite AI researchers to reflect on the broader structural conditions that shape the research and development of AI.</td>
     </tr>
   </tbody>
 </table>
@@ -458,12 +458,12 @@ count: false
       <td>Top-down structural reform should be the priority.</td>
       <td>Regulatory guardrails can themselves be shaped by the same pressures they aim to constrain, and top-down change rarely occurs in the absence of bottom-up pressure.</td>
     <tr class="hide-row">
-      <td>Capitalism as the most viable current option.</td>
-      <td>We leave this question open and invite AI researchers to reflect on the broader structural conditions that shape the research and development of AI.</td>
-    </tr>
-    <tr class="hide-row">
       <td>Alternative actors could have led to similar outcomes.</td>
       <td>The unique role played by big tech creates conditions and strong incentives toward irresponsible development.</td>
+    </tr>
+    <tr class="hide-row">
+      <td>Capitalism as the most viable current option.</td>
+      <td>We leave this question open and invite AI researchers to reflect on the broader structural conditions that shape the research and development of AI.</td>
     </tr>
   </tbody>
 </table>
@@ -491,12 +491,12 @@ count: false
       <td>Top-down structural reform should be the priority.</td>
       <td>Regulatory guardrails can themselves be shaped by the same pressures they aim to constrain, and top-down change rarely occurs in the absence of bottom-up pressure.</td>
     <tr class="active-row">
-      <td>Capitalism as the most viable current option.</td>
-      <td>We leave this question open and invite AI researchers to reflect on the broader structural conditions that shape the research and development of AI.</td>
-    </tr>
-    <tr class="hide-row">
       <td>Alternative actors could have led to similar outcomes.</td>
       <td>The unique role played by big tech creates conditions and strong incentives toward irresponsible development.</td>
+    </tr>
+    <tr class="hide-row">
+      <td>Capitalism as the most viable current option.</td>
+      <td>We leave this question open and invite AI researchers to reflect on the broader structural conditions that shape the research and development of AI.</td>
     </tr>
   </tbody>
 </table>
@@ -524,12 +524,12 @@ count: false
       <td>Top-down structural reform should be the priority.</td>
       <td>Regulatory guardrails can themselves be shaped by the same pressures they aim to constrain, and top-down change rarely occurs in the absence of bottom-up pressure.</td>
     <tr>
-      <td>Capitalism as the most viable current option.</td>
-      <td>We leave this question open and invite AI researchers to reflect on the broader structural conditions that shape the research and development of AI.</td>
-    </tr>
-    <tr class="active-row">
       <td>Alternative actors could have led to similar outcomes.</td>
       <td>The unique role played by big tech creates conditions and strong incentives toward irresponsible development.</td>
+    </tr>
+    <tr class="active-row">
+      <td>Capitalism as the most viable current option.</td>
+      <td>We leave this question open and invite AI researchers to reflect on the broader structural conditions that shape the research and development of AI.</td>
     </tr>
   </tbody>
 </table>
@@ -555,6 +555,11 @@ This is text with a [hyperlink](https://www.ecosia.org/).
 .references[Some references, which appear at the bottom left.]
 
 .conclusion[This is the conclusion box.]
+
+---
+
+## Conclusion
+
 
 ---
 
