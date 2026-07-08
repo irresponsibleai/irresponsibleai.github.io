@@ -35,11 +35,9 @@ Slides: [irresponsibleai.github.io/{{ name }}](https://irresponsibleai.github.io
 
 --
 
-- We examine the growing and disproportionate influence of big tech in AI research.
-- We argue that big tech's drive for scaling and general-purpose systems is fundamentally at odds with the responsible, ethical, and sustainable development of AI.
-- We review key current environmental and societal negative impacts of AI and trace their connections to big tech’s influence.
-- We discuss the underlying economic forces driving big tech’s action.
-- As a call to action, we invite AI researchers to counter big tech’s influence in irresponsible AI development through strategies that build on the responsibility of implicated actors and collective action.
+* Big tech significantly influences the AI research field.
+* This influence is strongly connected to the environmental and societal negative impacts of AI.
+* Call to action: counter big tech's influence through critical approaches, building alternatives and collective action.
 
 ---
 
@@ -290,7 +288,7 @@ count: false
 
 .center[![:scale 95%](./assets/img/summary/summary_3.png)]
 
-.conclusion[The position of big tech leads to the .h2[monopolisation of knowledge] .cite[(Pagano, 2014)], which allows them to escape regulation .cite[(Rikap and Lundvall, 2022)]. Thus, regulatory and technical solutions are not enough.]
+.conclusion[The .h2[concentration of wealth, power, and knowledge] in big tech allows these companies to escape regulation. Thus, regulatory and technical solutions are not enough.]
 
 ---
 
