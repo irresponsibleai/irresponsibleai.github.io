@@ -254,7 +254,7 @@ count: false
 
 .center[![:scale 95%](./assets/img/summary/summary_5.png)]
 
-.conclusion[.h2[AI slop], the spread of .h2[mis- and dis-information] and the .h2[degration of paper and peer-review quality] are growing concerns, driven by the uncritical deployment of AI systems and social media by big tech.]
+.conclusion[.h2[AI slop], the spread of .h2[mis- and dis-information] and the .h2[degradation of paper and peer-review quality] are growing concerns, driven by the uncritical deployment of AI systems and social media by big tech.]
 
 ---
 
