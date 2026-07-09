@@ -36,7 +36,7 @@ Slides: [irresponsibleai.github.io/{{ name }}](https://irresponsibleai.github.io
 --
 
 * Big tech significantly influences the AI research field.
-* This influence is strongly connected to the environmental and societal negative impacts of AI.
+* This influence drives many of the environmental and societal negative impacts of AI.
 * Call to action: counter big tech's influence through critical approaches, building alternatives and collective action.
 
 ---
@@ -278,7 +278,7 @@ count: false
 
 .center[![:scale 95%](./assets/img/summary/summary_3.png)]
 
-.conclusion[.h2[Big tech are for-profit, capitalist firms], pressured by the .h2[growth imperative], under which socioecological impacts are ignored.]
+.conclusion[Features of the .h2[capitalist economy] encourage .h2[profit seeking] and cause .h2[growth imperatives] for tech firms. This leads to big tech .h2[prioritizing profit and growth over socioecological well-being].]
 
 ---
 
