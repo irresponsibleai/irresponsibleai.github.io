@@ -156,6 +156,8 @@ count: false
 - The number of .h1[professors who transitioned from academia to industry] has increased .h1[8x] since 2006 .cite[(Morrisett et al., 2019)].
 - .h1[Joint faculty appointments] between universities and the industry have also increased.
 
+.center[![:scale 50%](./assets/img/bigtech_sponsors.jpg)]
+
 .references[
 - Ahmed et al. [The growing influence of industry in AI research](https://www.science.org/doi/10.1126/science.ade2420). Science, 2023.
 - Morrisett et al. Evolving academia/industry relations in computing research. arXiv:1903.10375, 2019.
@@ -170,6 +172,8 @@ count: false
 - The number of .h1[PhD graduates] from AI-related fields in US and Canadian universities .h1[that went to industry increased from 21 % in 2004 to 70 % in 2020] .cite[(Ahmed et al., 2023)].
 - The number of .h1[professors who transitioned from academia to industry] has increased .h1[8x] since 2006 .cite[(Morrisett et al., 2019)].
 - .h1[Joint faculty appointments] between universities and the industry have also increased.
+
+.center[![:scale 50%](./assets/img/bigtech_sponsors.jpg)]
 
 .conclusion[These trends have consequences in terms of department culture shift, research directions, conflicts of interest and the quality of the mentorship students receive.]
 
