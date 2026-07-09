@@ -194,6 +194,8 @@ count: false
 --
 
 .left-column[
+<pre>
+</pre>
 ### Scale thinking
 
 The belief that the main driver for progress in AI is increasing the amount of data, model size, etc.: .h1["bigger is better"], .h1["scaling is all you need"].
@@ -205,6 +207,8 @@ The belief that the main driver for progress in AI is increasing the amount of d
 --
 
 .right-column[
+<pre>
+</pre>
 ### General-purpose thinking
 
 The design philosophy that seeks to develop task-agnostic AI methods and products, as opposed to tailored and domain-inspired approaches, epitomised by the .h1[AGI slogan].
@@ -559,6 +563,17 @@ This is text with a [hyperlink](https://www.ecosia.org/).
 
 ## Conclusion
 
+.conclusion-float[.h1[Big tech]’s influence on AI research is an important driver of .h1[irresponsible AI] development.]
+
+--
+
+.conclusion-float[As AI researchers, we have agency to counter this influence and help steer the development of AI towards more ethical and sustainable paths.]
+
+--
+
+Join us and other critical AI researchers on [Signal](https://signal.org/)!
+
+.center[![:scale 30%](./assets/img/qrcode_signal.png)]
 
 ---
 
@@ -582,5 +597,5 @@ Alex Hernandez-Garcia, Alexandra Volokhova, Ezekiel Williams, Dounia Shaaban Kab
 Slides: [irresponsibleai.github.io/{{ name }}](https://irresponsibleai.github.io/{{ name }})
 ]]
 
-.qrcode[![](../assets/img/qrcode_paper.png)]
+.qrcode[![](../assets/img/qrcode_signal.png)]
 
