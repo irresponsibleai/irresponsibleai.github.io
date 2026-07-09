@@ -36,7 +36,8 @@ Slides: [irresponsibleai.github.io/{{ name }}](https://irresponsibleai.github.io
 --
 
 * Big tech significantly influences the AI research field.
-* This influence drives many of the environmental and societal negative impacts of AI.
+* Major environmental and societal negative impacts of AI can be traced to this influence.
+* Big tech is situated within capitalistic economic system
 * Call to action: counter big tech's influence through critical approaches, building alternatives and collective action.
 
 ---
