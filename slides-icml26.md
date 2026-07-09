@@ -597,5 +597,4 @@ Alex Hernandez-Garcia, Alexandra Volokhova, Ezekiel Williams, Dounia Shaaban Kab
 Slides: [irresponsibleai.github.io/{{ name }}](https://irresponsibleai.github.io/{{ name }})
 ]]
 
-.qrcode[![](../assets/img/qrcode_signal.png)]
-
+<img src="./assets/img/qrcode_signal.png" style="width: 15%; position: absolute; bottom: 0; right: 0em">
